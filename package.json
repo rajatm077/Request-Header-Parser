@@ -1,0 +1,23 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "description": "API project for freeCodeCamp",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajatm077/Request-Header-Parser.git"
+  },
+  "keywords": [],
+  "author": "rajat_malhotra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajatm077/Request-Header-Parser/issues"
+  },
+  "homepage": "https://github.com/rajatm077/Request-Header-Parser#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
